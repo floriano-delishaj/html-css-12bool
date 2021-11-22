@@ -1,0 +1,33 @@
+.col-xs-1 {
+    height: 58px;
+    border: 1px solid #000;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: #000;
+    border: 1px solid #fff;
+}
+
+.light-gray {
+    background-color: #777;
+}
+
+.dark-gray {
+    background-color: #444;
+}
+
+.blue {
+    background-color: rgb(54, 54, 252);
+}
+
+.pink {
+    background-color: #ffdab9;
+}
+
+.orange {
+    background-color: orange;
+}
